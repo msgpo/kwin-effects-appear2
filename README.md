@@ -5,6 +5,8 @@ Also, this effect is known as Glide 2 (from Compiz).
 
 ## Installation
 
+### Arch Linux
+
 For Arch Linux [kwin-effects-appear2](https://aur.archlinux.org/packages/kwin-effects-appear2/)
 is available in the AUR.
 
