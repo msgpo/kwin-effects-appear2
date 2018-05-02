@@ -3,7 +3,7 @@
 "Appear 2" is a KWin effect that animates appearing of windows.
 Also, this effect is known as Glide 2 (from Compiz).
 
-## Installing
+## Installation
 
 For Arch Linux [kwin-effects-appear2](https://aur.archlinux.org/packages/kwin-effects-appear2/)
 is available in the AUR.
