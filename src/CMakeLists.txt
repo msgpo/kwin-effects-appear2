@@ -30,8 +30,8 @@ target_link_libraries (kwin4_effect_appear2
         KF5::ConfigGui
         KF5::CoreAddons
         KF5::WindowSystem
-        KWinEffects::KWinEffects
         KWinEffects::GLUtils
+        KWinEffects::KWinEffects
 )
 
 kcoreaddons_desktop_to_json (kwin4_effect_appear2 appear2.desktop
